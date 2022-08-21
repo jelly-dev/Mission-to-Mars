@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Import dependencies
 from flask import Flask, render_template, redirect, url_for
 from flask_pymongo import PyMongo
